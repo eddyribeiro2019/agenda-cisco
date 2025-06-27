@@ -1,0 +1,12 @@
+<CiscoIPPhoneDirectory>
+  <Title>UVERSA VOIP</Title>
+  <Prompt>Escolha um contato</Prompt>
+  <DirectoryEntry>
+    <Name>EDDY VIVO</Name>
+    <Telephone>979056616</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Suporte TI</Name>
+    <Telephone>2000</Telephone>
+  </DirectoryEntry>
+</CiscoIPPhoneDirectory>
